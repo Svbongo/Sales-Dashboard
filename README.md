@@ -39,8 +39,7 @@ The project aimed to provide actionable insights into sales performance across v
 ---
 
 ## 📂 Files in the Repository
-- `Sales_Data.xlsx` – The raw data used for analysis.
-- `Sales_Dashboard.xlsx` – The interactive Excel dashboard with pivot tables and charts.
+- `Sales_Dashboard.xlsx` – The interactive Excel dashboard with pivot tables and charts along with raw data and calculations.
 - `README.md` – Project documentation (this file).
 
 ---
