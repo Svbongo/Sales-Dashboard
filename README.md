@@ -71,9 +71,3 @@ The project aimed to provide actionable insights into sales performance across v
 3. Use the slicers (filters) to interact with the dashboard and analyze sales performance.
 4. Explore the different pivot tables and charts to gain insights.
 
----
-
-## 📧 Contact
-For any questions or feedback, feel free to reach out via GitHub or LinkedIn.
-
----
